@@ -5,7 +5,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=12,14,18,20&text=KABILAN%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Cybersecurity%20%7C%20AI%20%26%20Software%20Development&descAlignY=62&descSize=16" width="100%" alt="Kabilan M"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:00E5FF,100:7C3AED&text=KABILAN%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Cybersecurity%20%7C%20AI%20%26%20Software%20Development&descAlignY=62&descSize=16" width="100%" alt="Kabilan M"/>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Learning+by+building." alt="About quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&height=32&lines=Driven+by+curiosity.+Building+for+impact.+Learning+by+building." alt="About quote"/>
 </p>
 
 <p align="center">
@@ -235,8 +235,8 @@ Responsive web applications · HTML · CSS · JavaScript · Java · MySQL · CRU
 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kabilanm1409&show_icons=true&bg_color=0D1117&title_color=00E5FF&text_color=F3F4F6&icon_color=7C3AED&border_color=00E5FF&border_radius=10" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kabilanm1409&layout=compact&bg_color=0D1117&title_color=00E5FF&text_color=F3F4F6&border_color=00E5FF&border_radius=10" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kabilanm1409&show_icons=true&bg_color=0D1117&title_color=00E5FF&text_color=F3F4F6&icon_color=7C3AED&border_color=00E5FF&border_radius=10" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kabilanm1409&layout=compact&bg_color=0D1117&title_color=00E5FF&text_color=F3F4F6&border_color=00E5FF&border_radius=10" width="48%" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -312,5 +312,5 @@ Responsive web applications · HTML · CSS · JavaScript · Java · MySQL · CRU
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,18,20&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,100:7C3AED" width="100%" alt="Footer"/>
 </p>
