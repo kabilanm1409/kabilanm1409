@@ -81,21 +81,19 @@ DSA → Backend Development → Cloud
 <tr>
 <td align="center" width="50%">
 
-🔥 Forest Fire AI Prediction
-
-AI-based forest-fire prediction using environmental and historical datasets, with a live heatmap and alert-oriented features.
-Tech Stack
-React · Node.js · Python · REST APIs
-🏆 1st Place — AI & DS Hackathon
+<h3>🔥 Forest Fire AI Prediction</h3>
+<p>AI-based forest-fire prediction using environmental and historical datasets, with a live heatmap and alert-oriented features.</p>
+<p><b>Tech Stack:</b> React · Node.js · Python · REST APIs</p>
+<p>🏆 <b>1st Place</b> — AI &amp; DS Hackathon</p>
+<p><a href="https://github.com/kabilanm1409/AI-Powered-Forest-Fire-Prediction"><img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository"/></a></p>
 </td>
 <td align="center" width="50%">
 
-🛡️ ESP32 Wi-Fi Security Monitoring
-
-Real-time wireless security monitoring using Wi-Fi packet sniffing and IEEE 802.11 management-frame analysis, with OLED alerts.
-Tech Stack
-ESP32 · Arduino IDE · C++ · Wi-Fi · OLED
-🏆 2nd Place — IT Project Expo
+<h3>🛡️ ESP32 Wi-Fi Security Monitoring</h3>
+<p>Real-time wireless security monitoring using Wi-Fi packet sniffing and IEEE 802.11 management-frame analysis, with OLED alerts.</p>
+<p><b>Tech Stack:</b> ESP32 · Arduino IDE · C++ · Wi-Fi · OLED</p>
+<p>🏆 <b>2nd Place</b> — IT Project Expo</p>
+<p><img src="https://img.shields.io/badge/Hardware-Prototype-238636?style=flat-square&logo=espressif&logoColor=white" alt="Hardware Prototype"/></p>
 </td>
 </tr>
 </table>
@@ -141,9 +139,9 @@ ESP32 · Arduino IDE · C++ · Wi-Fi · OLED
 </p>
 <p align="center"><b>Core Knowledge</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/DBMS-111111?style=for-the-badge&logoColor=00E5FF" alt="DBMS"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-111111?style=for-the-badge&logoColor=00E5FF" alt="Computer Networks"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-111111?style=for-the-badge&logoColor=7C3AED" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/DBMS-111111?style=for-the-badge&logo=sqlite&logoColor=00E5FF" alt="DBMS"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-111111?style=for-the-badge&logo=cisco&logoColor=00E5FF" alt="Computer Networks"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-111111?style=for-the-badge&logo=leetcode&logoColor=7C3AED" alt="Problem Solving"/>
 </p>
 <!-- ==================== INTERNSHIP ==================== -->
 <h2 align="center">💼 Internship Experience</h2>
@@ -242,7 +240,7 @@ Fundamentals of CyberSecurity
 <h2 align="center">🐍 Contribution Journey</h2>
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/kabilanm1409/kabilanm1409/output/github-contribution-grid-snake-dark.svg"
     width="100%"
     alt="GitHub Contribution Snake"
   />
@@ -277,13 +275,16 @@ Fundamentals of CyberSecurity
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/kabilan-m-790801330">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn"/>
   </a>
   <a href="mailto:mkabilan1409@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email"/>
   </a>
   <a href="https://kabii.me">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/kabilanm1409">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub"/>
   </a>
 </p>
 <!-- ==================== FOOTER ==================== -->
