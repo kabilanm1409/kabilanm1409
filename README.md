@@ -1,318 +1,226 @@
-
+Kabilan_Dark_Colorful_GitHub_README.md
 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=KABILAN%20M&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20%7C%20CYBERSECURITY%20%7C%20AI%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=60&descSize=17&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=KABILAN%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JAVA%20%7C%20CYBERSECURITY%20%7C%20AI%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=62&descSize=17&color=0:050A18,25:172554,55:4C1D95,80:0369A1,100:00A88F" width="100%"/>
 
-<a href="https://github.com/kabilanm1409"> <img src="https://komarev.com/ghpvc/?username=kabilanm1409&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" /> </a>
-
-<a href="https://github.com/kabilanm1409?tab=followers"> <img src="https://img.shields.io/github/followers/kabilanm1409?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717" /> </a>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/CYBERSECURITY-00C896?style=for-the-badge&logo=hackthebox&logoColor=white"/> <img src="https://img.shields.io/badge/AI%2FML-FF6B35?style=for-the-badge"/> <img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-6366F1?style=for-the-badge"/>
 
 <br><br>
 
-<a href="https://linkedin.com/in/kabilan-m-790801330"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://kabii.me"> <img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="mailto:mkabilan1409@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="https://linkedin.com/in/kabilan-m-790801330"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://kabii.me"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:mkabilan1409@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/kabilanm1409"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
+
+<table width="100%" bgcolor="#0D1117"> <tr> <td>
 
 <div align="center">
 
-👨‍💻 JAVA DEVELOPER • SECURITY ENTHUSIAST • BUILDER
-Information Technology student building practical systems across software, cybersecurity, networking and AI.
+<font color="#58A6FF">👨‍💻 JAVA DEVELOPER • SECURITY ENTHUSIAST • BUILDER</font>
+<font color="#C9D1D9">Information Technology student building practical systems across software, cybersecurity, networking and AI.</font>
 
 </div>
-
-<table align="center"> <tr> <td align="center" width="25%">
-
-🎓<br>
-<b>B.Tech IT</b><br>
-<sub>2024 – 2027</sub>
-
-</td> <td align="center" width="25%">
-
-☕<br>
-<b>Java Focus</b><br>
-<sub>Development + DSA</sub>
-
-</td> <td align="center" width="25%">
-
-🛡️<br>
-<b>Cybersecurity</b><br>
-<sub>Networking + Wi-Fi</sub>
-
-</td> <td align="center" width="25%">
-
-🤖<br>
-<b>AI Projects</b><br>
-<sub>Prediction Systems</sub>
 
 </td> </tr> </table>
 
-🧭 About Me
-My strongest learning happens when an idea becomes a working system.
+<table width="100%" bgcolor="#161B22"> <tr> <td align="center" width="25%"><font color="#58A6FF"><b>🎓 B.TECH IT</b></font><br><font color="#8B949E">2024 – 2027</font></td> <td align="center" width="25%"><font color="#F0883E"><b>☕ JAVA</b></font><br><font color="#8B949E">Development + DSA</font></td> <td align="center" width="25%"><font color="#00C896"><b>🛡️ SECURITY</b></font><br><font color="#8B949E">Networking + Wi-Fi</font></td> <td align="center" width="25%"><font color="#A371F7"><b>🤖 AI / ML</b></font><br><font color="#8B949E">Prediction Systems</font></td> </tr> </table>
 
-I enjoy exploring how complete systems behave — from writing Java applications and building AI-powered solutions to analyzing wireless traffic and developing ESP32-based security monitoring systems.
+<table width="100%" bgcolor="#0D1117"> <tr><td>
 
-🔎 What I work with
-☕ Java              → Programming • OOP • Application Development
-🧠 Problem Solving  → Logical Thinking • DSA Practice
-🛡️ Cybersecurity    → Wireless Monitoring • Network Analysis
-🌐 Web Development   → HTML • CSS • JavaScript • React • Node.js
-🤖 AI / ML           → Prediction • Data Analysis • Visualization
-🗄️ Databases         → MySQL • MongoDB
-🔧 Tools             → Git • GitHub • Wireshark • Arduino IDE
-☁️ Exploring         → Cloud Computing
-🧰 Tech Arsenal
+<font color="#58A6FF">🧭 ABOUT ME</font>
+<font color="#C9D1D9"><b>My strongest learning happens when an idea becomes a working system.</b></font>
+
+<br><br>
+
+<font color="#C9D1D9">I enjoy exploring how complete systems behave — from Java applications and AI-powered solutions to wireless traffic analysis and ESP32-based security monitoring.</font>
+
+<br><br>
+
+<font color="#58A6FF">☕ Java</font>   <font color="#A371F7">🧠 Problem Solving</font>   <font color="#00C896">🛡️ Cybersecurity</font>   <font color="#58A6FF">🌐 Web</font>   <font color="#F0883E">🤖 AI/ML</font>   <font color="#D29922">🗄️ Databases</font>
+
+</td></tr> </table>
+
+<font color="#58A6FF">⚡ TECH ARSENAL</font>
 <div align="center">
 
-💻 Languages
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,react,nodejs,mysql,mongodb,linux,git,github" />
 
 <br><br>
 
-🌐 Web & Backend
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
-
-<br><br>
-
-🗄️ Data & Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-<br><br>
-
-🔐 Security • Networking • Systems
-<img src="https://skillicons.dev/icons?i=linux,git,github" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-
-<br><br>
-
-📡 Embedded
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/OLED-111111?style=for-the-badge" />
-
-<br><br>
-
-🐘 Big Data
-<img src="https://img.shields.io/badge/HDFS-66CCFF?style=for-the-badge&logo=apache&logoColor=black" /> <img src="https://img.shields.io/badge/Apache_Pig-FF6B35?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/HDFS-66CCFF?style=for-the-badge&logo=apache&logoColor=black"/> <img src="https://img.shields.io/badge/Apache_Pig-FF6B35?style=for-the-badge&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/OLED-111827?style=for-the-badge"/>
 
 </div>
 
-🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top">
+<font color="#A371F7">🚀 FEATURED PROJECTS</font>
+<table width="100%" bgcolor="#0D1117"> <tr> <td width="50%" valign="top">
 
-🔥 AI Forest Fire Prediction
-AI-based forest fire prediction system using environmental and historical datasets.
+<font color="#FF6B35">🔥 AI Forest Fire Prediction</font>
+<font color="#C9D1D9">AI-based prediction system using environmental and historical datasets.</font>
 
-Stack
+<br><br>
 
+<font color="#58A6FF"><b>STACK</b></font><br>
 Python React Node.js REST APIs
 
-Built
+<br><br>
 
-🌲 Forest-fire risk prediction
-
-🗺️ Real-time heatmap visualization
-
-📍 Google Maps integration
-
-📧 Email alerts
-
+🌲 Forest-fire prediction<br>
+🗺️ Real-time heatmap<br>
+📍 Google Maps integration<br>
+📧 Email alerts<br>
 💬 WhatsApp alerts
 
-📊 Environmental-data analysis
+<br><br>
 
-🏆 1st Place — AI & DS Hackathon
+<img src="https://img.shields.io/badge/🏆%201ST%20PLACE-AI%20%26%20DS%20HACKATHON-FFD700?style=for-the-badge"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-🛡️ Wi-Fi Security Monitor
-ESP32-based wireless security monitoring system for authorized security research and defensive monitoring.
+<font color="#00C896">🛡️ Wi-Fi Security Monitor</font>
+<font color="#C9D1D9">ESP32-based wireless security monitoring system for authorized defensive research.</font>
 
-Stack
+<br><br>
 
+<font color="#00C896"><b>STACK</b></font><br>
 ESP32 C++ Arduino IDE Wi-Fi OLED
 
-Built
+<br><br>
 
-📡 Real-time packet monitoring
-
-🔎 IEEE 802.11 management-frame analysis
-
-🚨 Deauthentication activity detection
-
-📟 OLED security alerts
-
+📡 Packet monitoring<br>
+🔎 IEEE 802.11 frame analysis<br>
+🚨 Deauthentication activity detection<br>
+📟 OLED alerts<br>
 📊 Wireless activity monitoring
 
-🏆 2nd Place — IT Project Expo
+<br><br>
+
+<img src="https://img.shields.io/badge/🏆%202ND%20PLACE-IT%20PROJECT%20EXPO-C0C0C0?style=for-the-badge"/>
 
 </td> </tr> </table>
 
-🛡️ Cybersecurity & Networking
+<table width="100%" bgcolor="#111827"> <tr><td>
+
+<font color="#00C896">🛡️ CYBERSECURITY & NETWORKING</font>
 <div align="center">
 
-        ┌───────────────────────────────┐
-        │       WIRELESS MONITOR        │
-        └──────────────┬────────────────┘
-                       │
-                 📡 Wi-Fi Traffic
-                       │
-                       ▼
-        ┌───────────────────────────────┐
-        │     PACKET MONITORING         │
-        │       + FRAME ANALYSIS        │
-        └──────────────┬────────────────┘
-                       │
-                       ▼
-        ┌───────────────────────────────┐
-        │   SUSPICIOUS ACTIVITY        │
-        │       IDENTIFICATION          │
-        └──────────────┬────────────────┘
-                       │
-                       ▼
-                 🚨 ALERT
-                       │
-                       ▼
-                📟 OLED DISPLAY
+<font color="#58A6FF"><b>WIRELESS TRAFFIC</b></font>
+<br>⬇<br>
+<font color="#A371F7"><b>PACKET MONITORING</b></font>
+<br>⬇<br>
+<font color="#F0883E"><b>802.11 FRAME ANALYSIS</b></font>
+<br>⬇<br>
+<font color="#00C896"><b>SUSPICIOUS ACTIVITY IDENTIFICATION</b></font>
+<br>⬇<br>
+<font color="#FF6B6B"><b>🚨 SECURITY ALERT</b></font>
+
+<br><br>
+
+Wireshark Kali Linux Wi-Fi Packet Analysis IEEE 802.11 ESP32 ESP8266
+
+<br><br>
+
+<font color="#8B949E">🔐 Security projects are intended for learning, authorized testing and defensive monitoring.</font>
+
 </div>
 
-My security-oriented work focuses on understanding wireless traffic, network behavior, packet analysis, and defensive monitoring.
+</td></tr> </table>
 
-Tools & concepts
+<font color="#58A6FF">💼 PROFESSIONAL EXPERIENCE</font>
+<table width="100%" bgcolor="#0D1117"> <tr><td>
 
-Wireshark Kali Linux Wi-Fi Packet Analysis IEEE 802.11 ESP32 ESP8266 Networking
-
-🔐 Security projects are intended for learning, authorized testing, and defensive monitoring.
-
-💼 Professional Experience
-🏢 Full Stack Developer Intern
+<font color="#F0883E">🏢 Full Stack Developer Intern</font>
 e-soft IT Solutions · June 2025
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-Developed responsive web applications.
-
-Connected frontend applications with MySQL databases.
-
-Implemented CRUD operations.
-
-Performed testing and debugging.
-
-Collaborated with developers to build reliable software solutions.
-
-🎓 Education
-Qualification	Institution	Period	Result
-🎓 B.Tech Information Technology	Kongunadu College of Engineering and Technology	2024–2027	7.16 CGPA
-📘 Diploma in Mechanical Engineering	Kongunadu Polytechnic College	2022–2024	92%
-🏫 HSC	Government Higher Secondary School	2021–2022	50%
-<sub>B.Tech CGPA: up to 6th Semester</sub>
-
-🏆 Achievements
-<div align="center">
-
-<img src="https://img.shields.io/badge/🥇%201ST%20PLACE-AI%20%26%20DS%20HACKATHON-FFD700?style=for-the-badge" />
-
-<br><br>
-
-Forest Fire AI Prediction System
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🥈%202ND%20PLACE-IT%20PROJECT%20EXPO-C0C0C0?style=for-the-badge" />
-
-<br><br>
-
-ESP32-Based Wi-Fi Security Monitoring System
-
-</div>
-
-📜 Certifications
-<div align="center">
-
-🎓 Infosys Springboard — Front End Developer
+HTML CSS JavaScript Java MySQL
 
 <br>
 
-🌐 NPTEL — Internet of Things
+• Developed responsive web applications.<br>
+• Connected frontend applications with MySQL databases.<br>
+• Implemented CRUD operations.<br>
+• Performed testing and debugging.<br>
+• Collaborated with developers on software solutions.
 
-<br>
+</td></tr> </table>
 
-🔐 Fundamentals of CyberSecurity
+<font color="#A371F7">🎓 EDUCATION</font>
+<table width="100%" bgcolor="#161B22"> <tr> <th><font color="#58A6FF">Qualification</font></th> <th><font color="#58A6FF">Institution</font></th> <th><font color="#58A6FF">Period</font></th> <th><font color="#58A6FF">Result</font></th> </tr> <tr> <td>🎓 B.Tech IT</td> <td>Kongunadu College of Engineering and Technology</td> <td>2024–2027</td> <td><b>7.16 CGPA</b></td> </tr> <tr> <td>📘 Diploma — Mechanical Engineering</td> <td>Kongunadu Polytechnic College</td> <td>2022–2024</td> <td><b>92%</b></td> </tr> <tr> <td>🏫 HSC</td> <td>Government Higher Secondary School</td> <td>2021–2022</td> <td><b>50%</b></td> </tr> </table>
+
+<font color="#FFD700">🏆 ACHIEVEMENTS</font>
+<div align="center">
+
+<img src="https://img.shields.io/badge/🥇%201ST%20PLACE-AI%20%26%20DS%20HACKATHON-FFD700?style=for-the-badge"/> &nbsp; <img src="https://img.shields.io/badge/🥈%202ND%20PLACE-IT%20PROJECT%20EXPO-C0C0C0?style=for-the-badge"/>
 
 </div>
 
-🧪 Hands-On Learning
-🔐 Practicing networking and cybersecurity labs using TryHackMe
+<table width="100%" bgcolor="#0D1117"> <tr> <td align="center" width="50%"><font color="#FFD700"><b>🥇 AI & DS Hackathon</b></font><br><font color="#C9D1D9">Forest Fire AI Prediction System</font></td> <td align="center" width="50%"><font color="#C0C0C0"><b>🥈 IT Project Expo</b></font><br><font color="#C9D1D9">ESP32 Wi-Fi Security Monitoring System</font></td> </tr> </table>
 
-💻 Participating in coding contests and technical events
-
-🚀 Participating in hackathons and project expos
-
-☁️ Continuously learning software development, networking, and cloud computing
-
-🧠 Currently Learning
+<font color="#58A6FF">📜 CERTIFICATIONS</font>
 <div align="center">
 
-☕ Java
-↓
+<img src="https://img.shields.io/badge/Infosys_Springboard-Front_End_Developer-0078D4?style=for-the-badge"/> <img src="https://img.shields.io/badge/NPTEL-Internet_of_Things-FF6B35?style=for-the-badge"/> <img src="https://img.shields.io/badge/Fundamentals_of_CyberSecurity-Security-00C896?style=for-the-badge"/>
 
-🧩 Data Structures & Algorithms
-↓
-
-⚙️ Backend Development
-↓
-
-☁️ Cloud Computing
 </div>
 
-📊 GitHub Analytics
+<font color="#F0883E">🧪 HANDS-ON LEARNING</font>
+<table width="100%" bgcolor="#0D1117"> <tr><td>
+
+🔐 Networking and cybersecurity labs using TryHackMe<br><br>
+💻 Coding contests and technical events<br><br>
+🚀 Hackathons and project expos<br><br>
+☁️ Continuous learning in software development, networking and cloud computing
+
+</td></tr> </table>
+
+<font color="#A371F7">📊 GITHUB ANALYTICS</font>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kabilanm1409&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabilanm1409&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=kabilanm1409&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabilanm1409&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=kabilanm1409&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=kabilanm1409&theme=tokyonight&hide_border=true" width="70%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kabilanm1409&bg_color=0D1117&color=58A6FF&line=00E5A8&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
-📈 Contribution Activity
-<div align="center">
+<table width="100%" bgcolor="#0D1117"> <tr><td align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kabilanm1409&bg_color=0D1117&color=58A6FF&line=00E5A8&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<font color="#00E5A8">🎯 CURRENT FOCUS</font>
+<font color="#C9D1D9"><b>☕ Java</b></font>
+  →  
+<font color="#A371F7"><b>🧠 DSA</b></font>
+  →  
+<font color="#58A6FF"><b>⚙️ Backend</b></font>
+  →  
+<font color="#00C896"><b>☁️ Cloud</b></font>
 
-</div>
-
-🎯 Focus Areas
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-Development-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Data-Structures-6C63FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cybersecurity-Research-00A86B?style=for-the-badge&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/Networking-Wi--Fi-1679A7?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI%2FML-Projects-FF6B35?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cloud-Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-
-</div>
-
-🤝 Let's Connect
-<div align="center">
-
-<a href="https://linkedin.com/in/kabilan-m-790801330"> <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
-<a href="https://kabii.me"> <img src="https://img.shields.io/badge/Portfolio-kabii.me-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a>
-
-<a href="mailto:mkabilan1409@gmail.com"> <img src="https://img.shields.io/badge/Email-mkabilan1409%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-
-</div>
-
-<br>
+</td></tr> </table>
 
 <div align="center">
 
-BUILD → BREAK → ANALYZE → LEARN → BUILD BETTER
+<font color="#58A6FF">🤝 LET'S CONNECT</font>
+<a href="https://linkedin.com/in/kabilan-m-790801330"><img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://kabii.me"><img src="https://img.shields.io/badge/Portfolio-kabii.me-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:mkabilan1409@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient" width="100%"/>
+<br><br>
+
+<font color="#8B949E"><b>BUILD • ANALYZE • LEARN • SECURE • IMPROVE</b></font>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00C896,30:0369A1,65:4C1D95,100:050A18" width="100%"/>
 
 </div>
