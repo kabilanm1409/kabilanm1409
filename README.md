@@ -28,6 +28,9 @@
   <img src="./assets/section-about.svg" width="100%" alt="About Me"/>
 </p>
 <p align="center">
+  <img src="./assets/about-card.svg" width="100%" alt="About Me Dossier"/>
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=640&height=32&lines=Driven+by+curiosity.+Building+for+impact.+Learning+by+building." alt="About Quote"/>
 </p>
 <p align="center">
@@ -43,9 +46,6 @@
   <img src="https://img.shields.io/badge/SECURITY-Wi--Fi%20Packet%20Sniffing-0D1117?style=flat-square&logo=kalilinux&logoColor=7C3AED" alt="Security"/>
   <img src="https://img.shields.io/badge/AIM-Backend%20%26%20Cloud%20Systems-0D1117?style=flat-square&logo=icloud&logoColor=10B981" alt="Aim"/>
 </p>
-<p align="center">
-  <i>⚡ <b>Core Philosophy:</b> &ldquo;The strongest learning happens when an abstract idea becomes a resilient working system.&rdquo;</i>
-</p>
 
 <!-- ==================== SECTION 02: CORE FOCUS ==================== -->
 <p align="center">
@@ -59,20 +59,14 @@
 <p align="center">
   <img src="./assets/section-projects.svg" width="100%" alt="Featured Projects"/>
 </p>
-<table align="center" width="100%" border="0" cellspacing="10" cellpadding="0">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/kabilanm1409/AI-Powered-Forest-Fire-Prediction" target="_blank">
-        <img src="./assets/project-forest-fire.svg" width="100%" alt="Forest Fire AI Prediction Project"/>
-      </a>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/kabilanm1409" target="_blank">
-        <img src="./assets/project-esp32-wifi.svg" width="100%" alt="ESP32 Wi-Fi Security Sniffer Project"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/kabilanm1409/AI-Powered-Forest-Fire-Prediction" target="_blank">
+    <img src="./assets/project-forest-fire.svg" width="49%" alt="Forest Fire AI Prediction Project"/>
+  </a>
+  <a href="#-section-04-cybersecurity--networking">
+    <img src="./assets/project-esp32-wifi.svg" width="49%" alt="ESP32 Wi-Fi Security Sniffer Project"/>
+  </a>
+</p>
 
 <!-- ==================== SECTION 04: CYBERSECURITY & NETWORKING ==================== -->
 <p align="center">
@@ -92,6 +86,9 @@
 <p align="center">
   <img src="./assets/section-techstack.svg" width="100%" alt="Tech Stack and Tooling"/>
 </p>
+<p align="center">
+  <img src="./assets/techstack-card.svg" width="100%" alt="Tech Stack Command Deck"/>
+</p>
 <div align="center">
   <p><b>⚡ Programming Languages</b></p>
   <p>
@@ -99,7 +96,7 @@
   </p>
   <p><b>🌐 Web &amp; Backend Engineering</b></p>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" alt="Web Development"/>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,html,css&theme=dark" alt="Web Development"/>
   </p>
   <p><b>🗄️ Databases &amp; Big Data</b></p>
   <p>
@@ -162,19 +159,19 @@
 <p align="center">
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=kabilanm1409&show_icons=true&bg_color=080c14&title_color=00E5FF&text_color=F3F4F6&icon_color=7C3AED&border_color=00E5FF&border_radius=12"
-    width="48%"
+    width="49%"
     alt="GitHub Stats"
   />
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kabilanm1409&layout=compact&bg_color=080c14&title_color=00E5FF&text_color=F3F4F6&border_color=7C3AED&border_radius=12"
-    width="48%"
+    width="49%"
     alt="Top Languages"
   />
 </p>
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=kabilanm1409&theme=dark&hide_border=false&background=080c14&ring=00E5FF&fire=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=9CA3AF&dates=9CA3AF&border_radius=12"
-    width="55%"
+    width="60%"
     alt="GitHub Streak"
   />
 </p>
@@ -199,7 +196,7 @@
   <img src="./assets/section-connect.svg" width="100%" alt="Connect"/>
 </p>
 <p align="center">
-  <i>Interested in Java backend engineering, cybersecurity, networking research, or AI collaboration?</i>
+  <img src="./assets/connect-card.svg" width="100%" alt="Transmission Terminal"/>
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/kabilan-m-790801330" target="_blank">

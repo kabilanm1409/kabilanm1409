@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 240" width="100%" height="100%">
+  <defs>
+    
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14"/>
+      <stop offset="50%" stop-color="#0e1526"/>
+      <stop offset="100%" stop-color="#120c24"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#111827" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0b0f19" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="cyanPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="purplePink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#FF2E93"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#FBBF24"/>
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="cyberGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#00E5FF" stroke-width="0.6" stroke-opacity="0.07"/>
+      <circle cx="24" cy="0" r="0.8" fill="#00E5FF" fill-opacity="0.15"/>
+    </pattern>
+
+  </defs>
+  <style>
+    
+    .mono { font-family: 'Fira Code', 'Courier New', monospace; }
+    .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif; }
+
+    .stack-col-title { font-size: 13.5px; font-weight: 800; fill: #FFFFFF; letter-spacing: 0.8px; }
+    .stack-pill { font-size: 10px; font-weight: 700; letter-spacing: 1px; }
+    .stack-item { font-size: 11.5px; font-weight: 500; fill: #D1D5DB; }
+    .stack-hud { font-size: 11px; font-weight: 600; fill: #9CA3AF; letter-spacing: 1.2px; }
+  </style>
+
+  <rect width="950" height="240" rx="14" fill="url(#bgGrad)"/>
+  <rect width="950" height="240" rx="14" fill="url(#cyberGrid)"/>
+  <rect x="1" y="1" width="948" height="238" rx="13" fill="none" stroke="url(#cyanPurple)" stroke-width="1.2" stroke-opacity="0.45"/>
+
+  <!-- Module 1: Languages -->
+  <g transform="translate(20, 20)">
+    <rect width="215" height="165" rx="10" fill="url(#cardBg)" stroke="#00E5FF" stroke-width="1.2" stroke-opacity="0.6"/>
+    <rect x="12" y="12" width="90" height="20" rx="10" fill="#00E5FF" fill-opacity="0.15"/>
+    <text x="57" y="26" class="mono stack-pill" fill="#00E5FF" text-anchor="middle">LANGUAGES</text>
+    <text x="12" y="55" class="sans stack-col-title">⚡ Core Syntax</text>
+    <line x1="12" y1="64" x2="200" y2="64" stroke="#00E5FF" stroke-width="1" stroke-opacity="0.3"/>
+
+    <text x="12" y="88" class="sans stack-item">☕ Java (Core, OOP, Collections)</text>
+    <text x="12" y="110" class="sans stack-item">🐍 Python (ML &amp; Scripting)</text>
+    <text x="12" y="132" class="sans stack-item">⚙️ C / C++ (Embedded Systems)</text>
+    <text x="12" y="154" class="sans stack-item">🌐 JavaScript (Modern ES6+)</text>
+  </g>
+
+  <!-- Module 2: Web & Backend -->
+  <g transform="translate(252, 20)">
+    <rect width="215" height="165" rx="10" fill="url(#cardBg)" stroke="#7C3AED" stroke-width="1.2" stroke-opacity="0.6"/>
+    <rect x="12" y="12" width="95" height="20" rx="10" fill="#7C3AED" fill-opacity="0.2"/>
+    <text x="59" y="26" class="mono stack-pill" fill="#A78BFA" text-anchor="middle">WEB &amp; BACKEND</text>
+    <text x="12" y="55" class="sans stack-col-title">🌐 Services &amp; UI</text>
+    <line x1="12" y1="64" x2="200" y2="64" stroke="#7C3AED" stroke-width="1" stroke-opacity="0.3"/>
+
+    <text x="12" y="88" class="sans stack-item">⚛️ React.js &amp; Component UI</text>
+    <text x="12" y="110" class="sans stack-item">🟢 Node.js &amp; Express Engine</text>
+    <text x="12" y="132" class="sans stack-item">🔄 RESTful API Integration</text>
+    <text x="12" y="154" class="sans stack-item">🎨 HTML5, CSS3 &amp; Flexbox</text>
+  </g>
+
+  <!-- Module 3: Data & Systems -->
+  <g transform="translate(484, 20)">
+    <rect width="215" height="165" rx="10" fill="url(#cardBg)" stroke="#FF2E93" stroke-width="1.2" stroke-opacity="0.6"/>
+    <rect x="12" y="12" width="90" height="20" rx="10" fill="#FF2E93" fill-opacity="0.2"/>
+    <text x="57" y="26" class="mono stack-pill" fill="#F472B6" text-anchor="middle">DATA &amp; INFRA</text>
+    <text x="12" y="55" class="sans stack-col-title">🗄️ Persistence</text>
+    <line x1="12" y1="64" x2="200" y2="64" stroke="#FF2E93" stroke-width="1" stroke-opacity="0.3"/>
+
+    <text x="12" y="88" class="sans stack-item">🐬 MySQL Relational DBMS</text>
+    <text x="12" y="110" class="sans stack-item">🍃 MongoDB Document Store</text>
+    <text x="12" y="132" class="sans stack-item">🐘 Apache Hadoop HDFS</text>
+    <text x="12" y="154" class="sans stack-item">📊 Apache Pig MapReduce</text>
+  </g>
+
+  <!-- Module 4: Security & DevOps -->
+  <g transform="translate(716, 20)">
+    <rect width="214" height="165" rx="10" fill="url(#cardBg)" stroke="#10B981" stroke-width="1.2" stroke-opacity="0.6"/>
+    <rect x="12" y="12" width="105" height="20" rx="10" fill="#10B981" fill-opacity="0.15"/>
+    <text x="64" y="26" class="mono stack-pill" fill="#34D399" text-anchor="middle">SECURITY &amp; TOOLS</text>
+    <text x="12" y="55" class="sans stack-col-title">🛡️ Defense Ops</text>
+    <line x1="12" y1="64" x2="200" y2="64" stroke="#10B981" stroke-width="1" stroke-opacity="0.3"/>
+
+    <text x="12" y="88" class="sans stack-item">🦈 Wireshark Packet Audit</text>
+    <text x="12" y="110" class="sans stack-item">🐉 Kali Linux Forensics</text>
+    <text x="12" y="132" class="sans stack-item">📟 ESP32 Microcontrollers</text>
+    <text x="12" y="154" class="sans stack-item">🐙 Git, GitHub &amp; Linux CLI</text>
+  </g>
+
+  <!-- Bottom Telemetry HUD -->
+  <g transform="translate(20, 198)">
+    <rect width="910" height="26" rx="6" fill="#111827" stroke="#1F2937" stroke-width="1"/>
+    <text x="455" y="17" class="mono stack-hud" text-anchor="middle">
+      ARSENAL STATUS: MODERN FULL-STACK DEVELOPMENT • EMBEDDED HARDWARE • NETWORK DISSECTION
+    </text>
+  </g>
+</svg>
