@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 185" width="100%" height="185">
+  <defs>
+    
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14"/>
+      <stop offset="50%" stop-color="#0e1526"/>
+      <stop offset="100%" stop-color="#120c24"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#111827" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0b0f19" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="cyanPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="purplePink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#FF2E93"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#FBBF24"/>
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="cyberGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#00E5FF" stroke-width="0.6" stroke-opacity="0.07"/>
+      <circle cx="24" cy="0" r="0.8" fill="#00E5FF" fill-opacity="0.15"/>
+    </pattern>
+
+  </defs>
+  <style>
+    
+    .mono { font-family: 'Fira Code', 'Courier New', monospace; }
+    .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif; }
+
+    .flow-title { font-size: 13px; font-weight: 800; fill: #FFFFFF; letter-spacing: 0.8px; }
+    .flow-step { font-size: 10px; font-weight: 700; fill: #00E5FF; letter-spacing: 1.2px; }
+    .flow-desc { font-size: 11px; font-weight: 400; fill: #9CA3AF; }
+    .banner-txt { font-size: 11px; font-weight: 600; fill: #A78BFA; letter-spacing: 1px; }
+  </style>
+
+  <rect width="950" height="185" rx="14" fill="url(#bgGrad)"/>
+  <rect width="950" height="185" rx="14" fill="url(#cyberGrid)"/>
+  <rect x="1" y="1" width="948" height="183" rx="13" fill="none" stroke="url(#cyanPurple)" stroke-width="1.2" stroke-opacity="0.5"/>
+
+  <!-- Step 1: Capture -->
+  <g transform="translate(20, 20)">
+    <rect width="200" height="110" rx="8" fill="url(#cardBg)" stroke="#00E5FF" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="12" y="24" class="mono flow-step">[ STEP 01 ]</text>
+    <text x="12" y="44" class="sans flow-title">📡 RF Sniffing</text>
+    <line x1="12" y1="52" x2="188" y2="52" stroke="#00E5FF" stroke-width="1" stroke-opacity="0.3"/>
+    <text x="12" y="72" class="sans flow-desc">• Promiscuous 802.11</text>
+    <text x="12" y="90" class="sans flow-desc">• ESP32 / WLAN Interface</text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <g transform="translate(225, 70)">
+    <line x1="0" y1="0" x2="18" y2="0" stroke="#00E5FF" stroke-width="2" stroke-linecap="round"/>
+    <polygon points="18,-4 26,0 18,4" fill="#00E5FF"/>
+  </g>
+
+  <!-- Step 2: Dissect -->
+  <g transform="translate(255, 20)">
+    <rect width="200" height="110" rx="8" fill="url(#cardBg)" stroke="#7C3AED" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="12" y="24" class="mono flow-step" fill="#A78BFA">[ STEP 02 ]</text>
+    <text x="12" y="44" class="sans flow-title">🔬 Frame Filtering</text>
+    <line x1="12" y1="52" x2="188" y2="52" stroke="#7C3AED" stroke-width="1" stroke-opacity="0.3"/>
+    <text x="12" y="72" class="sans flow-desc">• 0x00C0 Deauth Catch</text>
+    <text x="12" y="90" class="sans flow-desc">• Beacon Flood Detection</text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <g transform="translate(460, 70)">
+    <line x1="0" y1="0" x2="18" y2="0" stroke="#7C3AED" stroke-width="2" stroke-linecap="round"/>
+    <polygon points="18,-4 26,0 18,4" fill="#7C3AED"/>
+  </g>
+
+  <!-- Step 3: Analyze -->
+  <g transform="translate(490, 20)">
+    <rect width="200" height="110" rx="8" fill="url(#cardBg)" stroke="#FF2E93" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="12" y="24" class="mono flow-step" fill="#F472B6">[ STEP 03 ]</text>
+    <text x="12" y="44" class="sans flow-title">🔍 Deep Inspection</text>
+    <line x1="12" y1="52" x2="188" y2="52" stroke="#FF2E93" stroke-width="1" stroke-opacity="0.3"/>
+    <text x="12" y="72" class="sans flow-desc">• Wireshark Dissector</text>
+    <text x="12" y="90" class="sans flow-desc">• Kali Linux Forensics</text>
+  </g>
+
+  <!-- Arrow 3 -->
+  <g transform="translate(695, 70)">
+    <line x1="0" y1="0" x2="18" y2="0" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+    <polygon points="18,-4 26,0 18,4" fill="#10B981"/>
+  </g>
+
+  <!-- Step 4: Alert -->
+  <g transform="translate(725, 20)">
+    <rect width="205" height="110" rx="8" fill="url(#cardBg)" stroke="#10B981" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="12" y="24" class="mono flow-step" fill="#34D399">[ STEP 04 ]</text>
+    <text x="12" y="44" class="sans flow-title">⚡ Alert &amp; Defense</text>
+    <line x1="12" y1="52" x2="193" y2="52" stroke="#10B981" stroke-width="1" stroke-opacity="0.3"/>
+    <text x="12" y="72" class="sans flow-desc">• Real-Time OLED Warning</text>
+    <text x="12" y="90" class="sans flow-desc">• Telemetry &amp; Log Capture</text>
+  </g>
+
+  <!-- Bottom Banner -->
+  <g transform="translate(20, 145)">
+    <rect width="910" height="28" rx="6" fill="#111827" stroke="#1F2937" stroke-width="1"/>
+    <text x="455" y="18" class="mono banner-txt" text-anchor="middle">
+      🛡️ PROTOCOL: ETHICAL TESTING • AUTHORIZED SECURITY AUDITING • DEFENSIVE ENGINEERING ONLY
+    </text>
+  </g>
+</svg>
